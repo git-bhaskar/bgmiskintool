@@ -5,7 +5,7 @@ package.name = skin
 package.domain = org.bgmi
 
 source.dir = .
-source.main = app.py
+source.main = main.py
 source.include_exts = py,txt,png,jpg,kv,atlas
 
 version = 1.0

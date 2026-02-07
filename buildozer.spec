@@ -25,6 +25,9 @@ android.accept_sdk_license = True
 android.allow_backup = True
 android.debug_artifact = apk
 
+android.api = 33
+android.minapi = 24
+
 
 [buildozer]
 
